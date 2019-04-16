@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonClick01</string>
+    <string name="str_btn1">点击实现方法一</string>
+    <string name="str_btn2">点击实现方法二</string>
+    <string name="str_btn3">点击实现方法三</string>
+    <string name="str_btn4">点击实现方法四</string>
+    <string name="xh">display the method</string>
+</resources>
